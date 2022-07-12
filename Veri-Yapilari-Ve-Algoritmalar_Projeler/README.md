@@ -1,4 +1,4 @@
-# Patika Dev - .NET Core Başlangıç Eğitim Serisinin - ' Veri Yapıları ve Algoirtmalar Adlı Bölümün Ödevleri|Projeleri '
+# Patika Dev - .NET Core Başlangıç Eğitim Serisinin - ' Veri Yapıları ve Algoritmalar Adlı Bölümün Ödevleri|Projeleri '
 
 ### İçindekiler:
 - Insertion Sort Projesi
