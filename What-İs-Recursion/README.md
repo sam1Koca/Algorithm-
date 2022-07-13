@@ -33,3 +33,15 @@ Temel Yapısı Bu şekilde.🤓 <br/>
 
 🧵 Yukarıda 3 adet örnek yaptım -> Example1 - Example2 - Example3
  - Kod yapıları üzerinde görerek, kendi editörünüzde deneyerek daha iyi anlayabileceğinizi ve kavraya bileceğinize inanıyorum.. :)
+ 
+ <br/><br/>
+ <b>🧐 Örnekleri inceledikten sonra, yüksek ihtimalle aklınıza şu soru gelecek; Ben Bunları Döngü kullanarak da yapabilirim..
+  - Tamda burda işte Recursion Fonksiyonların bize sağladığı Avantaj ve Dezavantajlardan Bahsetmek gerkeiyor. Hadi Gelin hep birlikte Bakalım;</b><br/>
+  ### Recursive Fonksiyon Avantajları
+- Recursive fonksiyonlar ile çok daha az kod ile işlevi yüksek kodlar yazabilirsiniz.
+- Kodunuz daha okunabilir olur.
+<br/><br/>
+### Recursive Fonksiyon Dezavantajları
+- Bazı durumlarda çok yavaştır.
+- Ufak bir hatada sonsuz döngüye girebilirsiniz.
+- Recursive işlemler Stack’de tutulduğundan bellek sorunu ortaya çıkabilir
