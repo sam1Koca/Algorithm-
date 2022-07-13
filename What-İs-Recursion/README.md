@@ -3,7 +3,7 @@
 
 - Bir problemin alt problemlere bölünüp hesaplanmasına, nerde son bulacağımı belirttiğimiz ifadelere recursion (Özyineleme) diyoruz. 
 
-- Küçük bir tanımla ile, Recursive fonksiyon içerisinde kendini çağıran fonksiyondur.
+- Küçük bir tanımlama ile, Recursive fonksiyon içerisinde kendini çağıran fonksiyondur.
 
 ---
 
@@ -31,7 +31,7 @@ Temel Yapısı Bu şekilde.🤓 <br/>
 ![C++_Recursion_Example1](https://user-images.githubusercontent.com/77436633/178626076-30bb2dde-4763-4ede-af11-db52fa8b0345.png)
 <br/><br/>
 
-🧵 Yukarıda 3 adet örnek yaptım -> Example1 - Example2 - Example3
+🧵 Yukarıda 3 adet örnek yaptım -> Example-01 - Example-02 - Example-03
  - Kod yapıları üzerinde görerek, kendi editörünüzde deneyerek daha iyi anlayabileceğinizi ve kavraya bileceğinize inanıyorum.. :)
  
  <br/><br/>
