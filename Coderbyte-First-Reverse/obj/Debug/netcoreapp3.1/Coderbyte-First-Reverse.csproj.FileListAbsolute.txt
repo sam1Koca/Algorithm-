@@ -1,0 +1,14 @@
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.csproj.AssemblyReference.cache
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.AssemblyInfoInputs.cache
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.AssemblyInfo.cs
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.csproj.CoreCompileInputs.cache
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.exe
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.deps.json
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.runtimeconfig.json
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.runtimeconfig.dev.json
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.dll
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\bin\Debug\netcoreapp3.1\Coderbyte-First-Reverse.pdb
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.dll
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.pdb
+C:\Users\sayit\Documents\Algorithm\Coderbyte-First-Reverse\obj\Debug\netcoreapp3.1\Coderbyte-First-Reverse.genruntimeconfig.cache
