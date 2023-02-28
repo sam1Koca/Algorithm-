@@ -1,0 +1,14 @@
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.exe
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.deps.json
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.runtimeconfig.json
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.runtimeconfig.dev.json
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.dll
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\bin\Debug\netcoreapp3.1\Coderbyte-First-Factorial.pdb
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.csproj.AssemblyReference.cache
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.AssemblyInfoInputs.cache
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.AssemblyInfo.cs
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.csproj.CoreCompileInputs.cache
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.dll
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.pdb
+C:\Users\sayit\OneDrive\Masaüstü\my-repos\Algorithm\Coderbyte-First-Factorial\obj\Debug\netcoreapp3.1\Coderbyte-First-Factorial.genruntimeconfig.cache
